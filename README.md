@@ -1,4 +1,4 @@
-# 2022-msia400-team7
+# Dillard’s Vendor Performance Analysis Project
 
 Team members: Yaasir Ahmed, Michelle (Ruoxuan) Liu, Shirley (Xueqing) Wang, and Yifei Wang
 
